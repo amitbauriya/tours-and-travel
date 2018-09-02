@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="cd_catalog.css"?>
+<package> 
+   <packagelist>
+      <packid>1</packid> 
+      <Packname>Christmas Adventure in Lapaland</Packname> 
+      <Subcategory>1</Subcategory>
+      <pic1>24</pic1>
+      <Packprice>20000</Packprice>
+      <Detail>What better way to celebrate Christmas than to spe...</Detail>
+   </packagelist>
+
+   <packagelist>
+      <packid>2</packid> 
+      <Packname>Agra Family Tour</Packname> 
+      <Subcategory>2</Subcategory>
+      <pic1>24</pic1>
+      <Packprice>10000</Packprice>
+      <Detail>A fun-filled holiday with your family is the best ...</Detail>
+   </packagelist>
+
+   <packagelist>
+      <packid>3</packid> 
+      <Packname>Holidays in Italy</Packname> 
+      <Subcategory>5</Subcategory>
+      <pic1>30</pic1>
+      <Packprice>20000</Packprice>
+      <Detail>Enjoy golden beaches, sparkling seas, beautiful co...</Detail>
+   </packagelist>
+
+   <packagelist>
+      <packid>4</packid> 
+      <Packname>Main attraction in Thailand</Packname> 
+      <Subcategory>38</Subcategory>
+      <pic1>24</pic1>
+      <Packprice>400000</Packprice>
+      <Detail>Fascinating cultures, a nation that adores childre...</Detail>
+   </packagelist>
+
+   <packagelist>
+      <packid>5</packid> 
+      <Packname>Holidays in Vancouver</Packname> 
+      <Subcategory>42</Subcategory>
+      <pic1>24</pic1>
+      <Packprice>400000</Packprice>
+      <Detail>The lakes and mountains of Jasper, Banff and Yoho...</Detail>
+   </packagelist>
+
+   <packagelist>
+      <packid>6</packid> 
+      <Packname>Haridwar</Packname> 
+      <Subcategory>34</Subcategory>
+      <pic1>24</pic1>
+      <Packprice>3000</Packprice>
+      <Detail>Haridwar means the 'Gateway to the abode of the go...</Detail>
+   </packagelist>
+
+   <packagelist>
+      <packid>7</packid> 
+      <Packname>Tivoli</Packname> 
+      <Subcategory>48</Subcategory>
+      <pic1>24</pic1>
+      <Packprice>500000</Packprice>
+      <Detail>Villa d'Este, in the town of Tivoli east of Rome, ...</Detail>
+   </packagelist>
+
+   <packagelist>
+      <packid>7</packid> 
+      <Packname>Austria Trip</Packname> 
+      <Subcategory>50</Subcategory>
+      <pic1>24</pic1>
+      <Packprice>300000</Packprice>
+      <Detail>Austria is a land of craggy Alps and elaborate bar...</Detail>
+   </packagelist>
+
+   <packagelist>
+      <packid>8</packid> 
+      <Packname>Canadian Religious Places</Packname> 
+      <Subcategory>53</Subcategory>
+      <pic1>24</pic1>
+      <Packprice>700000</Packprice>
+      <Detail>Canada is more like a multi-cultural country. Chri...</Detail>
+   </packagelist>
+
+   <packagelist>
+      <packid>9</packid> 
+      <Packname>Christianity Places</Packname> 
+      <Subcategory>56</Subcategory>
+      <pic1>24</pic1>
+      <Packprice>1200000</Packprice>
+      <Detail>The Catholic Church in England and Wales is part o...</Detail>
+   </packagelist>
+</package>
