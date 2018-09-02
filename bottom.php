@@ -45,7 +45,7 @@ Our Customer Service Department is always happy to answer any questions you migh
 </div>
 </div>  
 <div class="copyright text-right">
-<p style="padding-right:100px">Designed by: Amit, Ajay & Shekhar.</p>
+<p style="padding-right:100px">Designed by: Amit Bauriya.</p>
 </div>
   <script src="js/jquery.scrollTo.js"></script>
 	<script src="js/jquery.nav.js"></script>
